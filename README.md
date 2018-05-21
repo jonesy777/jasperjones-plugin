@@ -1,1 +1,0 @@
-# jasperjones-plugin
