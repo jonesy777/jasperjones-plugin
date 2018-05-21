@@ -16,7 +16,7 @@ If you are a fan of the used like I am I hope you enjoy this plugin.
 
 == Installation ==
 
-1. Upload the zip to the `/wp-content/plugins/` directory
+1. Download main file.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. enjoy the used every time you load an admin page
 
