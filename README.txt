@@ -25,3 +25,4 @@ If you are a fan of the used like I am I hope you enjoy this plugin.
 == Changelog ==
 
 1.0 first version submitted on 5/21/2018
+Courd is Great!
